@@ -56,12 +56,12 @@ global.packname = 'DARK-Z HACKING'
 global.author = '@DARK-Z HACKING' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/dark_z_hacker\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.dygp = 'https://chat.whatsapp.com/KQ4nA4KtbQR437HaVmoPpM'
 global.fgsc = 'https://github.com/darkz1085/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
-global.thumb = 'Link'https://i.imgur.com/9qBzCce.jpeg
+global.thumb = 'https://i.imgur.com/9qBzCce.jpeg'
 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
